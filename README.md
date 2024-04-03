@@ -3,3 +3,5 @@ Projeto de Gestão de participação de eventos, gerindo eventos e participantes
 Vite
 Typescript
 Tailwindcss
+
+Conceitos: Estados, componentização, integração com o backend, URL state.
